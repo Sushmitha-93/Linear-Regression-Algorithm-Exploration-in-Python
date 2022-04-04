@@ -7,3 +7,4 @@ Understanding Linear regression algorithm in Python
 - Line plot of Cost(MSE) Vs Slope (m)
 - Line plot of Cost(MSE) Vs Intercept (c) 
 
+![Gradient Descent](https://user-images.githubusercontent.com/41836325/161454996-42338cd7-365a-4ae2-86e3-878c0c7325cd.gif)
