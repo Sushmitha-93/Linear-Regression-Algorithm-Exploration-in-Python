@@ -1,5 +1,6 @@
 # Linear-Regression-Algorithm-Exploration-in-Python
 Understanding Linear regression algorithm in Python
+(Check out Linear_Regression_Exploration_in_python.ipynb)
 
 - Building gradient descent algorithm
 - Creating Gif image of regression line plots in each Gradient Descent Step
